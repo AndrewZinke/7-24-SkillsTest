@@ -1,0 +1,11 @@
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.csprojAssemblyReference.cache
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.csproj.CoreCompileInputs.cache
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.AssemblyInfoInputs.cache
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.AssemblyInfo.cs
+C:\Users\Zinke\7-24-SkillsTest\bin\Debug\netcoreapp2.1\7-24-SkillsTest.deps.json
+C:\Users\Zinke\7-24-SkillsTest\bin\Debug\netcoreapp2.1\7-24-SkillsTest.runtimeconfig.json
+C:\Users\Zinke\7-24-SkillsTest\bin\Debug\netcoreapp2.1\7-24-SkillsTest.runtimeconfig.dev.json
+C:\Users\Zinke\7-24-SkillsTest\bin\Debug\netcoreapp2.1\7-24-SkillsTest.dll
+C:\Users\Zinke\7-24-SkillsTest\bin\Debug\netcoreapp2.1\7-24-SkillsTest.pdb
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.dll
+C:\Users\Zinke\7-24-SkillsTest\obj\Debug\netcoreapp2.1\7-24-SkillsTest.pdb
